@@ -1,0 +1,90 @@
+{
+  "clientID": "ac9913f252cea3f0",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [
+    {
+      "phoneNo": "+923130736299",
+      "name": "bassam1",
+      "hash": "20c8d90198c8ac35ba9d87ae40a3e010"
+    }
+  ],
+  "wifiNow": [
+    {
+      "BSSID": "00:81:70:68:db:12",
+      "SSID": "8E470",
+      "firstSeen": "2020-11-20T15:43:40.612Z",
+      "lastSeen": "2020-11-20T15:43:40.612Z"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "00:81:70:68:db:12",
+      "SSID": "8E470",
+      "firstSeen": "2020-11-20T15:43:40.612Z",
+      "lastSeen": "2020-11-20T15:43:40.612Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated"
+    },
+    {
+      "name": "storage",
+      "isDir": true,
+      "path": "/storage/emulated/0/storage"
+    },
+    {
+      "name": "backups",
+      "isDir": true,
+      "path": "/storage/emulated/0/backups"
+    },
+    {
+      "name": "Uptodown App Store",
+      "isDir": true,
+      "path": "/storage/emulated/0/Uptodown App Store"
+    },
+    {
+      "name": "Misc",
+      "isDir": true,
+      "path": "/storage/emulated/0/Misc"
+    },
+    {
+      "name": "com.ahsoft.eservices",
+      "isDir": true,
+      "path": "/storage/emulated/0/com.ahsoft.eservices"
+    },
+    {
+      "name": "Download",
+      "isDir": true,
+      "path": "/storage/emulated/0/Download"
+    },
+    {
+      "name": "Pictures",
+      "isDir": true,
+      "path": "/storage/emulated/0/Pictures"
+    },
+    {
+      "name": "Android",
+      "isDir": true,
+      "path": "/storage/emulated/0/Android"
+    },
+    {
+      "name": "Applications",
+      "isDir": true,
+      "path": "/storage/emulated/0/Applications"
+    }
+  ]
+}

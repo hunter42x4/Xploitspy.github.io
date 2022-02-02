@@ -1,0 +1,147 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "loginToken": "82dac2d2870df8a6eecfcb1674eecfa1",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-11-17T16:15:15.047Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-11-20T15:42:24.499Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:42:41.477Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Disconnected"
+      },
+      {
+        "time": "2020-11-20T15:42:43.043Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:42:56.138Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:43:02.127Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:43:13.037Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Disconnected"
+      },
+      {
+        "time": "2020-11-20T15:43:24.387Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:43:24.390Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Running Queued Commands"
+      },
+      {
+        "time": "2020-11-20T15:43:24.394Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:43:25.378Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:43:40.614Z",
+        "type": "SUCCESS",
+        "message": "ac9913f252cea3f0 WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2020-11-20T15:43:47.127Z",
+        "type": "SUCCESS",
+        "message": "ac9913f252cea3f0 Contacts Updated - 1 New Contacts Added"
+      },
+      {
+        "time": "2020-11-20T15:43:52.995Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:43:56.200Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From ac9913f252cea3f0"
+      },
+      {
+        "time": "2020-11-20T15:44:00.512Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-11-20T15:44:00.749Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2020-11-20T15:44:30.747Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Disconnected"
+      },
+      {
+        "time": "2020-11-20T15:44:48.646Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:45:18.644Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Disconnected"
+      },
+      {
+        "time": "2020-11-20T15:45:38.387Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:46:04.114Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Connected"
+      },
+      {
+        "time": "2020-11-20T15:46:34.112Z",
+        "type": "INFO",
+        "message": "ac9913f252cea3f0 Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "ac9913f252cea3f0",
+      "firstSeen": "2020-11-20T15:42:24.367Z",
+      "lastSeen": "2020-11-20T15:46:34.114Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "10.9.0.1",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N971N",
+          "manufacture": "samsung",
+          "version": "5.1.1"
+        }
+      }
+    }
+  ]
+}
